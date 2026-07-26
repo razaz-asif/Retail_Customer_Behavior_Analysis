@@ -55,7 +55,8 @@ Customer-Churn-Diagnosis/
 
 ## Executive Overview
 
-<img src="Dashboard/Page1.png" width="100%">
+<img width="1302" height="733" alt="Overview" src="https://github.com/user-attachments/assets/fa77e8a7-4fb7-4e79-8d46-47048d15faa3" />
+
 
 **Highlights**
 
@@ -70,7 +71,8 @@ Customer-Churn-Diagnosis/
 
 ## Churn Analysis
 
-<img src="Dashboard/Page2.png" width="100%">
+<img width="1305" height="733" alt="Churn Drive   Customer Behaviour" src="https://github.com/user-attachments/assets/fc2d5e68-d85f-4d4b-b6f4-583a595380c4" />
+
 
 **Highlights**
 
@@ -85,7 +87,8 @@ Customer-Churn-Diagnosis/
 
 ## Financial Impact
 
-<img src="Dashboard/Page3.png" width="100%">
+<img width="1304" height="734" alt="Retention   Revenue" src="https://github.com/user-attachments/assets/91e4a482-9cf1-4b5f-8ea0-2a4477d9e65d" />
+
 
 **Highlights**
 
